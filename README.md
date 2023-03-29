@@ -7,4 +7,5 @@ Web app using Java Spring boot to generate a random password.
 ![home2](https://user-images.githubusercontent.com/86308449/228538360-55d27c2e-e61a-48bc-804e-5179e4823df1.PNG)
 
 IDE: IntelliJ
+
 Language: Java Spring Boot, CSS, HTML, JS
